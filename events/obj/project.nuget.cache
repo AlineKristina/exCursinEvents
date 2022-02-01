@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nAO7kAEy/IjVlttD12RXyO5K8EZDL21BJAHXFgSnJemg7l/hXJr62iRw3ZaqPkk3R0NROLePfUmutUzCl4Gkg==",
+  "success": true,
+  "projectFilePath": "D:\\TreinamentoAvanade\\events\\events\\events.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aline\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

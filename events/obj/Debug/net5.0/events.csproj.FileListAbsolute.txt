@@ -1,0 +1,16 @@
+D:\TreinamentoAvanade\events\events\bin\Debug\net5.0\events.exe
+D:\TreinamentoAvanade\events\events\bin\Debug\net5.0\events.deps.json
+D:\TreinamentoAvanade\events\events\bin\Debug\net5.0\events.runtimeconfig.json
+D:\TreinamentoAvanade\events\events\bin\Debug\net5.0\events.runtimeconfig.dev.json
+D:\TreinamentoAvanade\events\events\bin\Debug\net5.0\events.dll
+D:\TreinamentoAvanade\events\events\bin\Debug\net5.0\ref\events.dll
+D:\TreinamentoAvanade\events\events\bin\Debug\net5.0\events.pdb
+D:\TreinamentoAvanade\events\events\obj\Debug\net5.0\events.csproj.AssemblyReference.cache
+D:\TreinamentoAvanade\events\events\obj\Debug\net5.0\events.GeneratedMSBuildEditorConfig.editorconfig
+D:\TreinamentoAvanade\events\events\obj\Debug\net5.0\events.AssemblyInfoInputs.cache
+D:\TreinamentoAvanade\events\events\obj\Debug\net5.0\events.AssemblyInfo.cs
+D:\TreinamentoAvanade\events\events\obj\Debug\net5.0\events.csproj.CoreCompileInputs.cache
+D:\TreinamentoAvanade\events\events\obj\Debug\net5.0\events.dll
+D:\TreinamentoAvanade\events\events\obj\Debug\net5.0\ref\events.dll
+D:\TreinamentoAvanade\events\events\obj\Debug\net5.0\events.pdb
+D:\TreinamentoAvanade\events\events\obj\Debug\net5.0\events.genruntimeconfig.cache
